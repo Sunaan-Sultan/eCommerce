@@ -1,0 +1,442 @@
+[
+  {
+    "id": 1,
+    "productName": "Samsung Galaxy S24",
+    "productCategory": "Electronics",
+    "productDescription": "MOST POWERFUL GALAXY SMARTPHONE YET: Jump seamlessly between apps without the wait and see content in high quality with our fastest processor yet, Snapdragon 8 Gen 3 for Galaxy.Focus on capturing your notes and spend less time perfecting them; Note Assist will summarize, format, and even translate them for you; All of your notes are organized neatly so that you can find what you need",
+    "productPrice": 659.99,
+    "imageUrl": "samsung_s24"
+    
+  },
+  {
+    "id": 2,
+    "productName": "Apple iPhone 15",
+    "productCategory": "Electronics",
+    "productDescription": "6.7inch Super Retina XDR display. Aluminum with color-infused glass back. Ring/Silent switch. Dynamic Island. A magical way to interact with iPhone. A16 Bionic chip with 5-core GPU. Advanced dual-camera system. 48MP Main | Ultra Wide. Super-high-resolution photos (24MP and 48MP). Next-generation portraits with Focus and Depth Control. 4X optical zoom range.",
+    "productPrice": 759.99,
+    "imageUrl": "iphone_15"
+    
+  },
+  {
+    "id": 3,
+    "productName": "Google Pixel 8",
+    "productCategory": "Electronics",
+    "productDescription": "Powered by Google Tensor G3, Pixel 8 redefines speed and AI capabilities. Its 6.2-inch OLED display offers vivid colors and HDR. Featuring an advanced AI camera with Real Tone, Magic Eraser, and Motion Mode.",
+    "productPrice": 599.99,
+    "imageUrl": "googlepixel8"
+    
+  },
+  {
+    "id": 4,
+    "productName": "Sony WH-1000XM5",
+    "productCategory": "Electronics",
+    "productDescription": "Industry-leading noise-canceling headphones with up to 30 hours of battery life. Adaptive sound control and hands-free calls. Foldable and lightweight for travel.",
+    "productPrice": 349.99,
+    "imageUrl": "sony"
+    
+  },
+  {
+    "id": 5,
+    "productName": "Lenovo Yoga 9i",
+    "productCategory": "Electronics",
+    "productDescription": "A 14-inch 2-in-1 laptop with a stunning OLED touchscreen display, Intel i7 13th Gen processor, 16GB RAM, and 1TB SSD. Includes a stylus and Dolby Atmos sound.",
+    "productPrice": 1199.99,
+    "imageUrl": "lenovoyoga9i"
+    
+  },
+  {
+    "id": 6,
+    "productName": "TACVASEN Men's Jacket",
+    "productCategory": "Fashion",
+    "productDescription": "Material: Polyester; Lightweight, Windbreaker, Breathable. Full zipper stand collar bomber jacket, The zipper head is on the left. FEATURE: Rib Knit Cuffs, Waistband, Collar for comfort, Dual pen pockets on sleeve. MULTI-POCKETS: 1 zipper sleeve pocket, 2 slant hand pockets, 1 inner pocket. Suitable for: Outdoor, Casual, Sportwear, Working, Daily life, Hiking, Clubwear, Sports, Spring, Fall or other outdoor activities.",
+    "productPrice": 39.98,
+    "imageUrl": "jacket"
+    
+  },
+  {
+    "id": 7,
+    "productName": " Long Sleeve Casual Shirt",
+    "productCategory": "Fashion",
+    "productDescription": "Legendary Whitetails flannel shirt for men, recognized for its top-tier quality, is crafted from 100% soft brushed cotton flannel and promises warmth and breathability; This 5.1 ounce Buck Camp Flannel Shirt is ideally weighted for layering or standalone wear, indoors and out; Beyond its softness, its pill-resistant premium fabric quality ensures a consistently sharp look and lasting comfort",
+    "productPrice": 34.99,
+    "imageUrl": "shirt"
+    
+  },
+  {
+    "id": 8,
+    "productName": "Women's Slim Fit Jeans",
+    "productCategory": "Fashion",
+    "productDescription": "Designed for comfort and style, these slim-fit jeans feature stretchy fabric for a snug yet relaxed fit. Perfect for casual and semi-formal wear.",
+    "productPrice": 29.99,
+    "imageUrl": "jeans"
+    
+  },
+  {
+    "id": 9,
+    "productName": "Men's Formal Leather Shoes",
+    "productCategory": "Fashion",
+    "productDescription": "Crafted from genuine leather, these shoes offer a sleek and professional look for office or formal events. Cushioned insoles ensure all-day comfort.",
+    "productPrice": 49.99,
+    "imageUrl": "shoe"
+    
+  },
+  {
+    "id": 10,
+    "productName": "Casual Women's Sneakers",
+    "productCategory": "Fashion",
+    "productDescription": "Lightweight and breathable sneakers made with high-quality mesh and EVA sole. Ideal for running, walking, or casual outings.",
+    "productPrice": 44.99,
+    "imageUrl": "sneakers"
+    
+  },
+  {
+    "id": 11,
+    "productName": "Bioelements Night Cream",
+    "productCategory": "Skincare",
+    "productDescription": "A night cream that works while you sleep. Calcium firms skin while time-released retinol maximizes benefits & minimizes the risk of irritation. Smooths the appearance of fine lines & wrinkles as it improves moisture & tone. Skin will appear more youthful, rested & ready to face the day.",
+    "productPrice": 77.00,
+    "imageUrl": "cream"
+    
+  },
+  {
+    "id": 12,
+    "productName": "LANEIGE Lip Glowy",
+    "productCategory": "Skincare",
+    "productDescription": "The perfect daytime partner in crime to the cult-favorite Lip Sleeping Mask, Lip Glowy Balm is pocket sized for easy, on-the-go application. These subtly tinted glossy balms contain Shea & Murumuru Seed butters for powerful moisture-locking hydration.",
+    "productPrice": 19.00,
+    "imageUrl": "gloss"
+    
+  },
+  {
+    "id": 13,
+    "productName": "Vitamin C Serum",
+    "productCategory": "Skincare",
+    "productDescription": "Enriched with high-potency Vitamin C, this serum helps reduce dark spots, fine lines, and uneven skin tone. Its antioxidant properties protect against environmental damage while enhancing radiance. Lightweight and fast-absorbing, it’s suitable for daily use to achieve brighter, healthier-looking skin.",
+    "productPrice": 35.00,
+    "imageUrl": "serum"
+    
+  },
+  {
+    "id": 14,
+    "productName": "Hydrating Face Moisturizer",
+    "productCategory": "Skincare",
+    "productDescription": "A lightweight moisturizer infused with hyaluronic acid and aloe vera to lock in hydration and soothe the skin. Ideal for all skin types, this non-greasy formula absorbs quickly, leaving your face feeling soft and refreshed throughout the day.",
+    "productPrice": 24.99,
+    "imageUrl": "moisturizer"
+    
+  },
+  {
+    "id": 15,
+    "productName": "Charcoal Detoxifying Face Mask",
+    "productCategory": "Skincare",
+    "productDescription": "This detoxifying mask harnesses the power of activated charcoal to draw out impurities and reduce the appearance of pores. Enriched with kaolin clay and tea tree oil, it provides a deep cleanse while leaving your skin smooth and radiant.",
+    "productPrice": 19.99,
+    "imageUrl": "charcoal"
+    
+  },
+  {
+    "id": 16,
+    "productName": "Office Computer Desk Chair",
+    "productCategory": "Furniture",
+    "productDescription": "Comfort: double polyester foam seat made by hand-stitching, soft double seat cushion enhances the comfort of chair, thickened and enlarged soft hand-stitched armrests for increase comfort during use, the back of the breathable mesh allows the person to use for a long time",
+    "productPrice": 199.99,
+    "imageUrl": "chair"
+    
+  },
+  {
+    "id": 17,
+    "productName": "Furologee End Table",
+    "productCategory": "Furniture",
+    "productDescription": "Nightstand with Charging Station: This white night stand comes with built-in 2 outlets and 2 USB ports, as well as a 4.9 foot power cord. Provide a convenient charging place for your mobile phone, Bluetooth earphones, watches, lamp and laptop, everything is within your arm's reach.",
+    "productPrice": 45.98,
+    "imageUrl": "table"
+    
+  },
+  {
+    "id": 18,
+    "productName": "OREO Chocolate Cookies",
+    "productCategory": "Groceries",
+    "productDescription": "One box of 30 snack packs, 4 cookies per pack, of OREO Chocolate Sandwich Cookies (packaging may vary)\nChocolate wafers Always made with Real Cocoa filled with original OREO creme\nCertified kosher OREO sandwich cookies are perfectly dunkable\nOREO cookie snack packs are great lunch snacks and on the go snacks\nIndividually wrapped bulk snack packs keep OREO cookies fresh and ready to share as office snacks, after school snacks or party favors",
+    "productPrice": 9.99,
+    "imageUrl": "oreo"
+    
+  },
+  {
+    "id": 19,
+    "productName": "JOLLY RANCHER Fruit Candy",
+    "productCategory": "Groceries",
+    "productDescription": "Contains one (1) 5-pound bulk bag of JOLLY RANCHER Assorted Fruit Flavored Hard Candy\nLong-lasting hard candy you can take with you on the go, to work, on snack breaks and back home again at the end of the day\nFruit flavored hard candy individually wrapped for convenience and exceptional freshness to the last piece\nPerfect for Pride month, graduation and wedding seasons, fundraising events, back to school preparation, 4th of July bashes, birthday parties and Mother and Father's Day celebrations",
+    "productPrice": 19.99,
+    "imageUrl": "jolly"
+    
+  },
+  {
+    "id": 20,
+    "productName": "E-Commerce Business",
+    "productCategory": "Books",
+    "productDescription": "Inside, you’ll find:\n\nHow to make your business and what you offer truly stand out from your competitors, without spending thousands of dollars on a logo or creating unique features\nHow the “Rule of One” provides laser-guided focus when building a business in 7 days or less – and helps to almost completely eliminate all the guesswork that usually comes with starting a business from scratch\nHow to make finding the right niche for your business painless with 5 simple tips",
+    "productPrice": 12.99,
+    "imageUrl": "business"
+    
+  },
+  {
+    "id": 21,
+    "productName": "Bulding a Brand",
+    "productCategory": "Books",
+    "productDescription": "Donald Miller's StoryBrand process is a proven solution to the struggle business leaders face when talking about their businesses. This revolutionary method for connecting with customers provides listeners with the ultimate competitive advantage, revealing the secret for helping their customers understand the compelling benefits of using their products, ideas, or services. Building a StoryBrand does this by teaching listeners the seven universal story points all humans respond to, the real reason customers make purchases.",
+    "productPrice": 19.99,
+    "imageUrl": "brand"
+    
+  },
+  {
+    "id": 22,
+    "productName": "Wooden Montessori",
+    "productCategory": "Toys",
+    "productDescription": "Montessori Toys for 1 Year Old: The Wooden toy farm set is designed for toddlers 1 2 3 years old.Unlike other products on the market,it addresses common issues such as choking hazards,easily falling radishes,and sharp corners on the cubes.It is very suitable for 1-2 year old boys and girls.",
+    "productPrice": 23.99,
+    "imageUrl": "montessori"
+    
+  },
+  {
+    "id": 23,
+    "productName": "Baby music toy",
+    "productCategory": "Toys",
+    "productDescription": "3 IN 1 BABY ACTIVITY TOYS - We combine the fun of rattle toys, music toys, and animal plush toys into this toy. Let your baby experience a variety of fun just on a caterpillar toy.\nVISUAL DEVELOPMENT - There are a variety of colors, fabrics, patterns and textures to interest the baby. The Baby's eyes and hands will stay active when exploring these. Which helps tactile and visual development.",
+    "productPrice": 21.99,
+    "imageUrl": "music_toy"
+    
+  },
+  {
+    "id": 24,
+    "productName": "Sports Ball Set",
+    "productCategory": "Sports",
+    "productDescription": "Portable and Practical: the mesh sports bag with carrying strap measures about 18.2 x 19.7 x 10.3 inches, designed with carry straps and mesh ventilation, equipped with a pump and air needle, which can be inflated and deflated anytime and anywhere, you can go to the playground or the gym with your friend easily",
+    "productPrice": 48.99,
+    "imageUrl": "football"
+    
+  },
+  {
+    "id": 25,
+    "productName": "Sunridges SS Cricket Bat",
+    "productCategory": "Sports",
+    "productDescription": "SS LEGEND 10 Limited Edition English willow cricket bat is made of a prime, hand-picked English willows and are made of bat profile, shape and size that one of greats of cricket, Sachin Tendulkar, have used for more than a decade.",
+    "productPrice": 59.99,
+    "imageUrl": "bat"
+    
+  },
+  {
+    "id": 26,
+    "productName": "Logitech G29 Driving Wheel",
+    "productCategory": "Automotive",
+    "productDescription": "REALISTIC RACING SIMULATION DUO: Feel what is like to drive a real race car with G29 Driving Force Racing Wheel & Pedals and Driving Force Shifter\nPAIRED FOR PRECISION: Take full control of the race with G29 Driving Force Racing Wheel & Pedals and Driving Force Shifter\nPRECISE CONTROL: Helical transmission gears reduce noise and vibration with anti-backlash keeping wheel and pedals tight. The six-speed “H” shifter helps you execute smooth, accurate gear transitions",
+    "productPrice": 359.99,
+    "imageUrl": "wheel"
+    
+  },
+  {
+    "id": 27,
+    "productName": "Hardtail Mountain Bike",
+    "productCategory": "Automotive",
+    "productDescription": "Bold Charcoal Gloss Frame: Designed with a durable and stylish charcoal gloss finish, this bike is built to withstand rugged trails and everyday rides.\n21-Speed Shimano Twist Shifting: Features a reliable Shimano 21-speed drivetrain for smooth and precise gear changes, perfect for climbing hills and navigating various terrains.",
+    "productPrice": 199.99,
+    "imageUrl": "bicycle"
+    
+  },
+  {
+    "id": 28,
+    "productName": "Microsoft Office Home 2024",
+    "productCategory": "Digital",
+    "productDescription": "Ideal for one person, with a Microsoft 365 Personal 12-month subscription, get access to all the classic office apps and more, including 1TB of cloud storage, advanced security and access to apps on desktop/mobile.",
+    "productPrice": 99.99,
+    "imageUrl": "office"
+    
+  },
+  {
+    "id": 29,
+    "productName": "McAfee Total Protection",
+    "productCategory": "Digital",
+    "productDescription": "automatically when using public Wi-Fi. Protect your personal data and activity with Secure VPN. It safeguards your banking, shopping, and browsing by turning public Wi-Fi into your own secure connection",
+    "productPrice": 19.99,
+    "imageUrl": "mcafee"
+    
+  },
+    {
+      "id": 30,
+      "productName": "Modern L-Shaped Corner Desk",
+      "productCategory": "Furniture",
+      "productDescription": "Crafted with a sleek and contemporary design, this L-shaped corner desk provides ample workspace for your office needs. Built with sturdy steel frames and a wooden top, it combines durability and aesthetics. Includes a detachable monitor stand for ergonomic use.",
+      "productPrice": 129.99,
+      "imageUrl": "ldesk"
+      
+    },
+    {
+      "id": 31,
+      "productName": "Ergonomic Adjustable Office Chair",
+      "productCategory": "Furniture",
+      "productDescription": "Designed for long hours of work or gaming, this chair features a breathable mesh back, lumbar support, and an adjustable height mechanism. The thick padded seat ensures maximum comfort, while the smooth-rolling casters provide ease of movement.",
+      "productPrice": 159.99,
+      "imageUrl": "ochair"
+      
+    },
+    {
+      "id": 32,
+      "productName": "Nutella Hazelnut Spread",
+      "productCategory": "Groceries",
+      "productDescription": "Enjoy the rich, creamy taste of Nutella, made from premium hazelnuts and cocoa. Perfect for spreading on bread, adding to desserts, or as a dip for fruits. Comes in a 35.3 oz jar to last for many delicious meals and snacks.",
+      "productPrice": 13.99,
+      "imageUrl": "nutella"
+      
+    },
+    {
+      "id": 33,
+      "productName": "Organic Green Tea Bags",
+      "productCategory": "Groceries",
+      "productDescription": "A pack of 100 biodegradable green tea bags sourced from organic farms. Rich in antioxidants, this tea promotes relaxation and boosts metabolism. Each bag is individually wrapped for freshness and convenience.",
+      "productPrice": 14.99,
+      "imageUrl": "green_tea"
+      
+    },
+    {
+      "id": 34,
+      "productName": "Atomic Habits",
+      "productCategory": "Books",
+      "productDescription": "Written by James Clear, this best-selling book explores how small habits can lead to remarkable results. Packed with practical tips and psychological insights, it is the ultimate guide to building good habits and breaking bad ones.",
+      "productPrice": 16.99,
+      "imageUrl": "atomic_habits"
+      
+    },
+    {
+      "id": 35,
+      "productName": "The Psychology of Money",
+      "productCategory": "Books",
+      "productDescription": "Morgan Housel provides timeless lessons on wealth, greed, and happiness in this thought-provoking book. Through engaging stories, it explains how people make financial decisions and how to make better ones yourself.",
+      "productPrice": 14.99,
+      "imageUrl": "psychology_money"
+      
+    },
+    {
+      "id": 36,
+      "productName": "LEGO Classic Brick Set",
+      "productCategory": "Toys",
+      "productDescription": "A 1500-piece LEGO classic set designed to spark creativity and imagination. Includes a variety of colors and brick sizes, perfect for building anything from vehicles to animals. Ideal for ages 4 and up.",
+      "productPrice": 59.99,
+      "imageUrl": "lego"
+      
+    },
+    {
+      "id": 37,
+      "productName": "Interactive Globe for Kids",
+      "productCategory": "Toys",
+      "productDescription": "An educational toy that combines learning and fun. This globe features interactive touchpoints and provides information about countries, capitals, and cultures through a companion app. Great for children aged 6-12.",
+      "productPrice": 49.99,
+      "imageUrl": "interactive_globe"
+      
+    },
+    {
+      "id": 38,
+      "productName": "Yoga Mat with Alignment Lines",
+      "productCategory": "Sports",
+      "productDescription": "A non-slip yoga mat made from eco-friendly material, featuring alignment lines to improve posture and technique. Lightweight and durable, it comes with a carrying strap, making it perfect for home, gym, or studio use.",
+      "productPrice": 24.99,
+      "imageUrl": "yoga_mat"
+      
+    },
+    {
+      "id": 39,
+      "productName": "High-Density Foam Roller",
+      "productCategory": "Sports",
+      "productDescription": "Ideal for muscle recovery and physical therapy, this foam roller is made from high-density EVA material. Helps relieve muscle tension, improve blood circulation, and enhance flexibility after workouts.",
+      "productPrice": 19.99,
+      "imageUrl": "foam_roller"
+      
+    },
+    {
+      "id": 40,
+      "productName": "Mid-Century Modern Sofa",
+      "productCategory": "Furniture",
+      "productDescription": "This elegant sofa features a mid-century modern design with clean lines, tapered wooden legs, and a comfortable cushioned seating area. Upholstered in high-quality fabric, it provides both style and comfort, perfect for any contemporary living space.",
+      "productPrice": 349.99,
+      "imageUrl": "sofa"
+      
+    },
+    {
+      "id": 41,
+      "productName": "Wooden Dining Table Set",
+      "productCategory": "Furniture",
+      "productDescription": "This dining table set includes a solid wood dining table and four chairs with padded seats. The classic design and durable construction make it an ideal choice for families and small gatherings, offering both functionality and elegance.",
+      "productPrice": 499.99,
+      "imageUrl": "dining_table"
+      
+    },
+    {
+      "id": 42,
+      "productName": "Storage Bookcase Shelf",
+      "productCategory": "Furniture",
+      "productDescription": "A versatile and stylish storage bookcase, perfect for organizing books, decor, and other household items. Featuring adjustable shelves and a sturdy frame, this bookcase can complement any modern or traditional home decor.",
+      "productPrice": 129.99,
+      "imageUrl": "bookcase"
+      
+    },
+    {
+      "id": 43,
+      "productName": "Compact Computer Desk",
+      "productCategory": "Furniture",
+      "productDescription": "Ideal for small spaces, this compact computer desk features a minimalist design with ample storage space for a computer, keyboard, and accessories. Its sleek metal frame and wood surface make it both practical and stylish.",
+      "productPrice": 99.99,
+      "imageUrl": "compact_desk"
+      
+    },
+    {
+      "id": 44,
+      "productName": "Contemporary TV Stand",
+      "productCategory": "Furniture",
+      "productDescription": "This modern TV stand offers a spacious and stylish solution for your living room. It features open shelving for electronic components and sleek drawers for additional storage, all supported by a sturdy metal frame.",
+      "productPrice": 199.99,
+      "imageUrl": "tv_stand"
+    },
+    {
+      "id": 45,
+      "productName": "Portable Camping Chair",
+      "productCategory": "Sports",
+      "productDescription": "Perfect for outdoor adventures, this portable camping chair is lightweight yet durable, featuring a foldable design for easy storage and transport. The built-in cup holder and padded armrests ensure comfort during long hours of use.",
+      "productPrice": 39.99,
+      "imageUrl": "camping_chair"
+      
+    },
+    {
+      "id": 46,
+      "productName": "Golf Swing Trainer",
+      "productCategory": "Sports",
+      "productDescription": "Improve your golf swing with this portable trainer that helps correct posture, form, and swing technique. The adjustable resistance band offers different levels of difficulty, making it suitable for beginners and advanced players alike.",
+      "productPrice": 29.99,
+      "imageUrl": "golf_trainer"
+      
+    },
+    {
+      "id": 47,
+      "productName": "Inflatable Paddle Board",
+      "productCategory": "Sports",
+      "productDescription": "This high-quality inflatable paddle board is perfect for both beginners and seasoned paddlers. It features a non-slip surface, adjustable paddle, and a durable design, making it ideal for use in calm waters, lakes, and rivers.",
+      "productPrice": 349.99,
+      "imageUrl": "paddle_board"
+      
+    },
+    {
+      "id": 48,
+      "productName": "Adjustable Dumbbells Set",
+      "productCategory": "Sports",
+      "productDescription": "This set of adjustable dumbbells allows you to easily change the weight, making it ideal for home workouts. Perfect for building strength, improving endurance, and toning muscles, the ergonomic design ensures comfortable use.",
+      "productPrice": 99.99,
+      "imageUrl": "dumbbells"
+      
+    },
+    {
+      "id": 49,
+      "productName": "LED Running Shoes",
+      "productCategory": "Sports",
+      "productDescription": "These LED running shoes feature a unique light-up design with multiple colors that change with every stride. Ideal for running at night or in low-light conditions, they offer comfort, durability, and visibility.",
+      "productPrice": 79.99,
+      "imageUrl": "led_shoes"
+      
+    }
+]
